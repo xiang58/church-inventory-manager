@@ -1,3 +1,4 @@
 .git
 .venv
 __pycache__
+church_inventory_local.db
