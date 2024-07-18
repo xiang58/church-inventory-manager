@@ -29,6 +29,11 @@ streamlit run src/app.py
 deactivate
 ```
 
+* Turn on headers and column mode for SQLite
+```
+sqlite3 church_inventory.db -header -column
+```
+
 * Reference: 
     - https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
     - https://docs.streamlit.io/
