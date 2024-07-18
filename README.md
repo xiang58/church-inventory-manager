@@ -1,12 +1,12 @@
 # church-inventory-manager
 * Create a virtual env
 ```
-python -m venv .venv
+python3 -m venv .venv
 ```
 
 * Activate virtual env
 ```
-source .venv/Scripts/activate
+source .venv/bin/activate
 ```
 
 * Confirm the venv is activated
